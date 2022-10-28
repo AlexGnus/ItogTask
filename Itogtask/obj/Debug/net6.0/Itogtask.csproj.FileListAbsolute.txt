@@ -1,0 +1,15 @@
+C:\Users\Лариса\Desktop\Контрольная2\Itogtask\bin\Debug\net6.0\Itogtask.exe
+C:\Users\Лариса\Desktop\Контрольная2\Itogtask\bin\Debug\net6.0\Itogtask.deps.json
+C:\Users\Лариса\Desktop\Контрольная2\Itogtask\bin\Debug\net6.0\Itogtask.runtimeconfig.json
+C:\Users\Лариса\Desktop\Контрольная2\Itogtask\bin\Debug\net6.0\Itogtask.dll
+C:\Users\Лариса\Desktop\Контрольная2\Itogtask\bin\Debug\net6.0\Itogtask.pdb
+C:\Users\Лариса\Desktop\Контрольная2\Itogtask\obj\Debug\net6.0\Itogtask.csproj.AssemblyReference.cache
+C:\Users\Лариса\Desktop\Контрольная2\Itogtask\obj\Debug\net6.0\Itogtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Лариса\Desktop\Контрольная2\Itogtask\obj\Debug\net6.0\Itogtask.AssemblyInfoInputs.cache
+C:\Users\Лариса\Desktop\Контрольная2\Itogtask\obj\Debug\net6.0\Itogtask.AssemblyInfo.cs
+C:\Users\Лариса\Desktop\Контрольная2\Itogtask\obj\Debug\net6.0\Itogtask.csproj.CoreCompileInputs.cache
+C:\Users\Лариса\Desktop\Контрольная2\Itogtask\obj\Debug\net6.0\Itogtask.dll
+C:\Users\Лариса\Desktop\Контрольная2\Itogtask\obj\Debug\net6.0\refint\Itogtask.dll
+C:\Users\Лариса\Desktop\Контрольная2\Itogtask\obj\Debug\net6.0\Itogtask.pdb
+C:\Users\Лариса\Desktop\Контрольная2\Itogtask\obj\Debug\net6.0\Itogtask.genruntimeconfig.cache
+C:\Users\Лариса\Desktop\Контрольная2\Itogtask\obj\Debug\net6.0\ref\Itogtask.dll
